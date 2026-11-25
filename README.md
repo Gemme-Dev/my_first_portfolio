@@ -19,7 +19,7 @@ that solve real-world problems.
 - AgroFarmer Ethiopia
 - StudentMate
 - AI Academic Document Search and Question-Answering System
-
+  Digital Library website
 ### 📚 Currently Learning
 
 - Advanced React.js
@@ -29,7 +29,7 @@ that solve real-world problems.
 
 ### 📫 Connect With Me
 
-- GitHub: https://github.com/gemmechu-tulu
+- GitHub: https://github.com/Gemme-Dev
 - LinkedIn: https://www.linkedin.com/gemme-tulu-86374b407
 - Email: gemme2378@gmail.com
 
